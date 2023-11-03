@@ -1,5 +1,5 @@
 import os
-file = open("/Users/roberta/Documents/IOSDEV/PythonLab/PythonTest.testo2.txt","r")
+file = open("/Users/roberta/Documents/IOSDEV/PythonLab/PythonTest/testo2.txt","x")
 #print(file.read())
 #print(file.readlines())
 file.write("Sunday")
