@@ -1,0 +1,4 @@
+apple, 1
+Eggs, 4
+Cheese, 25 kg
+Milk, 1l
